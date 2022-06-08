@@ -1,0 +1,1 @@
+__declspec(dllexport) int mydiv(int val1, int val2);
